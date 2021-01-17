@@ -1,5 +1,3 @@
-# xdeck_2
-
 # Xdeck Startup Discovery
 *Codename: 'Astral'*
 
@@ -7,6 +5,7 @@
 ### Winter Term 2020/2021, Project Group 14
 
 **Developers**
+* @DanielBulawa
 * @Fais1964
 * @franciscodlsb
 * @pclp17
