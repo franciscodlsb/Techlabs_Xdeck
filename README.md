@@ -56,7 +56,6 @@
 - combined_startups.csv - combined startups maximizing information keeping all the columns
 - list_startups.csv - combined startups with the minimum number of columns
 - filtered_startups.xlsx - filtered startups from combined_startups.csv applying xdeck criteria
-- 20201214_xdeck_techlabs_scouting_deep_dive - xdeck information on the scouting process
 
 
 ## Resources
